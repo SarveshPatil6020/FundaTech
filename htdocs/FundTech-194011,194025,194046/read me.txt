@@ -1,0 +1,48 @@
+Fundatech 
+
+
+#installation guid of FundaTch project
+steps 1- extract zip file of the project in the xampp htdocs
+
+Step 2- you will get three sql file in the market folder
+       1.phpproject.sql
+       2.line_chart.sql
+       3.line1_chart.sql
+
+step 3- import all the sql files in database
+
+step 4- open the php folder in the xampp open php configuration setting file 
+
+step 5- find for smtp and replace the below code under the [mail function] with the existing code
+code-
+For Win32 only.
+https://php.net/smtp
+SMTP=localhost
+https://php.net/smtp-port
+smtp_port=587
+
+; For Win32 only.
+; https://php.net/sendmail-from
+;sendmail_from = sarvesh98patil81@gmail.com  # set your own email 
+
+; For Unix only.  You may supply arguments as well (default: "sendmail -t -i").
+; https://php.net/sendmail-path
+sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"   # path of the send file location
+
+
+
+step 6 - open the sendemail in xampp
+*set smtp_server=smtp.gmail.com
+*set smtp_port=587
+*set smtp_ssl=auto
+
+
+
+step 7 - set your gmail as auth_username
+
+step 8 - go to your gmail account then manage account go to security 
+find for 2 step varification turn it on go to app  password create app password 
+and set password as auth_password
+
+
+step 9- set force_sender as your email  

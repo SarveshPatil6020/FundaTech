@@ -1,0 +1,203 @@
+22-05-20 14:22:54 ** --- MESSAGE BEGIN ---
+22-05-20 14:22:54 ** To: amit77patil09@gmail.com
+22-05-20 14:22:54 ** Subject: Email Verification Code
+22-05-20 14:22:54 ** From: sarvesh98patil81@gmail.com
+22-05-20 14:22:54 ** 
+22-05-20 14:22:54 ** Your verification code is 950580
+22-05-20 14:22:54 ** --- MESSAGE END ---
+22-05-20 14:22:55 ** Connecting to smtp.gmail.com:587
+22-05-20 14:22:55 ** Connected.
+22-05-20 14:22:55 << 220 smtp.gmail.com ESMTP m9-20020a62a209000000b005185407eda5sm1239814pff.44 - gsmtp<EOL>
+22-05-20 14:22:55 >> EHLO Sarvesh<EOL>
+22-05-20 14:22:55 << 250-smtp.gmail.com at your service, [106.193.121.22]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-05-20 14:22:55 ** Authenticating as sarvesh98patil81@gmail.com
+22-05-20 14:22:55 >> STARTTLS<EOL>
+22-05-20 14:22:56 << 220 2.0.0 Ready to start TLS<EOL>
+22-05-20 14:22:56 >> EHLO Sarvesh<EOL>
+22-05-20 14:22:57 << 250-smtp.gmail.com at your service, [106.193.121.22]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-05-20 14:22:57 >> AUTH LOGIN<EOL>
+22-05-20 14:22:57 << 334 VXNlcm5hbWU6<EOL>
+22-05-20 14:22:57 >> c2FydmVzaDk4cGF0aWw4MUBnbWFpbC5jb20=<EOL>
+22-05-20 14:22:57 << 334 UGFzc3dvcmQ6<EOL>
+22-05-20 14:22:57 >> U2FydmVzaEA5ODgx<EOL>
+22-05-20 14:22:59 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials m9-20020a62a209000000b005185407eda5sm1239814pff.44 - gsmtp<EOL>
+22-05-20 14:22:59 ** Disconnecting from smtp.gmail.com:587
+22-05-20 14:22:59 ** Disconnected.
+22-05-20 14:22:59 ** Disconnected.
+22-05-20 14:22:59 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials m9-20020a62a209000000b005185407eda5sm1239814pff.44 - gsmtp<EOL>
+22-07-14 16:55:15 ** --- MESSAGE BEGIN ---
+22-07-14 16:55:15 ** To: pd.194011@gmail.com
+22-07-14 16:55:15 ** Subject: Your login credentials are here
+22-07-14 16:55:15 ** From: alfaizkhan147@gmail.com
+22-07-14 16:55:15 ** 
+22-07-14 16:55:15 ** Hi,
+22-07-14 16:55:15 **  Login Id:pd.194011@gmail.com Password:1sKvgjm
+22-07-14 16:55:15 ** --- MESSAGE END ---
+22-07-14 16:55:16 ** Connecting to smtp.gmail.com:587
+22-07-14 16:55:16 ** Connected.
+22-07-14 16:55:17 << 220 smtp.gmail.com ESMTP l62-20020a632541000000b004088f213f68sm1128533pgl.56 - gsmtp<EOL>
+22-07-14 16:55:17 >> EHLO Sarvesh<EOL>
+22-07-14 16:55:17 << 250-smtp.gmail.com at your service, [103.163.91.165]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-07-14 16:55:17 ** Authenticating as sarvesh98patil81@gmail.com
+22-07-14 16:55:17 >> STARTTLS<EOL>
+22-07-14 16:55:17 << 220 2.0.0 Ready to start TLS<EOL>
+22-07-14 16:55:17 >> EHLO Sarvesh<EOL>
+22-07-14 16:55:17 << 250-smtp.gmail.com at your service, [103.163.91.165]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-07-14 16:55:17 >> AUTH LOGIN<EOL>
+22-07-14 16:55:18 << 334 VXNlcm5hbWU6<EOL>
+22-07-14 16:55:18 >> c2FydmVzaDk4cGF0aWw4MUBnbWFpbC5jb20=<EOL>
+22-07-14 16:55:18 << 334 UGFzc3dvcmQ6<EOL>
+22-07-14 16:55:18 >> dHZ1YWFjZ3htYWtqb2prbQ==<EOL>
+22-07-14 16:55:18 << 235 2.7.0 Accepted<EOL>
+22-07-14 16:55:18 >> MAIL FROM: <sarvesh98patil81@gmail.com><EOL>
+22-07-14 16:55:19 << 250 2.1.0 OK l62-20020a632541000000b004088f213f68sm1128533pgl.56 - gsmtp<EOL>
+22-07-14 16:55:19 >> RCPT TO: <pd.194011@gmail.com><EOL>
+22-07-14 16:55:19 << 250 2.1.5 OK l62-20020a632541000000b004088f213f68sm1128533pgl.56 - gsmtp<EOL>
+22-07-14 16:55:19 >> DATA<EOL>
+22-07-14 16:55:19 << 354  Go ahead l62-20020a632541000000b004088f213f68sm1128533pgl.56 - gsmtp<EOL>
+22-07-14 16:55:19 >> Date: Thu, 14 Jul 2022 16:55:19 +0530<EOL>
+22-07-14 16:55:19 >> To: pd.194011@gmail.com<EOL>
+22-07-14 16:55:19 >> Subject: Your login credentials are here<EOL>
+22-07-14 16:55:19 >> From: alfaizkhan147@gmail.com<EOL>
+22-07-14 16:55:19 >> <EOL>
+22-07-14 16:55:19 >> Hi,<EOL>
+22-07-14 16:55:19 >>  Login Id:pd.194011@gmail.com Password:1sKvgjm<EOL>
+22-07-14 16:55:19 >> .<EOL>
+22-07-14 16:55:20 << 250 2.0.0 OK  1657797921 l62-20020a632541000000b004088f213f68sm1128533pgl.56 - gsmtp<EOL>
+22-07-14 16:55:20 >> QUIT<EOL>
+22-07-14 16:55:20 << 221 2.0.0 closing connection l62-20020a632541000000b004088f213f68sm1128533pgl.56 - gsmtp<EOL>
+22-07-14 16:55:20 ** Disconnecting from smtp.gmail.com:587
+22-07-14 16:55:20 ** Disconnected.
+22-07-14 16:55:20 ** Disconnected.
+22-07-14 19:48:46 ** --- MESSAGE BEGIN ---
+22-07-14 19:48:46 ** To: rutujavanyalkar@gmail.com
+22-07-14 19:48:46 ** Subject: Your login credentials are here
+22-07-14 19:48:46 ** From: alfaizkhan147@gmail.com
+22-07-14 19:48:46 ** 
+22-07-14 19:48:46 ** Hi,
+22-07-14 19:48:46 **  Login Id:rutujavanyalkar@gmail.com Password:tQWgcRE
+22-07-14 19:48:46 ** --- MESSAGE END ---
+22-07-14 19:48:47 ** Connecting to smtp.gmail.com:587
+22-07-14 19:48:47 ** Connected.
+22-07-14 19:48:48 << 220 smtp.gmail.com ESMTP y20-20020aa79af4000000b00518764d09cdsm1747870pfp.164 - gsmtp<EOL>
+22-07-14 19:48:48 >> EHLO Sarvesh<EOL>
+22-07-14 19:48:48 << 250-smtp.gmail.com at your service, [103.163.91.165]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-07-14 19:48:48 ** Authenticating as sarvesh98patil81@gmail.com
+22-07-14 19:48:48 >> STARTTLS<EOL>
+22-07-14 19:48:48 << 220 2.0.0 Ready to start TLS<EOL>
+22-07-14 19:48:48 >> EHLO Sarvesh<EOL>
+22-07-14 19:48:49 << 250-smtp.gmail.com at your service, [103.163.91.165]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-07-14 19:48:49 >> AUTH LOGIN<EOL>
+22-07-14 19:48:49 << 334 VXNlcm5hbWU6<EOL>
+22-07-14 19:48:49 >> c2FydmVzaDk4cGF0aWw4MUBnbWFpbC5jb20=<EOL>
+22-07-14 19:48:49 << 334 UGFzc3dvcmQ6<EOL>
+22-07-14 19:48:49 >> dHZ1YWFjZ3htYWtqb2prbQ==<EOL>
+22-07-14 19:48:50 << 235 2.7.0 Accepted<EOL>
+22-07-14 19:48:50 >> MAIL FROM: <sarvesh98patil81@gmail.com><EOL>
+22-07-14 19:48:50 << 250 2.1.0 OK y20-20020aa79af4000000b00518764d09cdsm1747870pfp.164 - gsmtp<EOL>
+22-07-14 19:48:50 >> RCPT TO: <rutujavanyalkar@gmail.com><EOL>
+22-07-14 19:48:50 << 250 2.1.5 OK y20-20020aa79af4000000b00518764d09cdsm1747870pfp.164 - gsmtp<EOL>
+22-07-14 19:48:50 >> DATA<EOL>
+22-07-14 19:48:51 << 354  Go ahead y20-20020aa79af4000000b00518764d09cdsm1747870pfp.164 - gsmtp<EOL>
+22-07-14 19:48:51 >> Date: Thu, 14 Jul 2022 19:48:51 +0530<EOL>
+22-07-14 19:48:51 >> To: rutujavanyalkar@gmail.com<EOL>
+22-07-14 19:48:51 >> Subject: Your login credentials are here<EOL>
+22-07-14 19:48:51 >> From: alfaizkhan147@gmail.com<EOL>
+22-07-14 19:48:51 >> <EOL>
+22-07-14 19:48:51 >> Hi,<EOL>
+22-07-14 19:48:51 >>  Login Id:rutujavanyalkar@gmail.com Password:tQWgcRE<EOL>
+22-07-14 19:48:51 >> .<EOL>
+22-07-14 19:48:51 << 250 2.0.0 OK  1657808333 y20-20020aa79af4000000b00518764d09cdsm1747870pfp.164 - gsmtp<EOL>
+22-07-14 19:48:51 >> QUIT<EOL>
+22-07-14 19:48:52 << 221 2.0.0 closing connection y20-20020aa79af4000000b00518764d09cdsm1747870pfp.164 - gsmtp<EOL>
+22-07-14 19:48:52 ** Disconnecting from smtp.gmail.com:587
+22-07-14 19:48:52 ** Disconnected.
+22-07-14 19:48:52 ** Disconnected.
+22-07-15 14:24:37 ** --- MESSAGE BEGIN ---
+22-07-15 14:24:37 ** To: mrunalchopade2003@gmail.com
+22-07-15 14:24:37 ** Subject: Your login credentials are here
+22-07-15 14:24:37 ** From: alfaizkhan147@gmail.com
+22-07-15 14:24:37 ** 
+22-07-15 14:24:37 ** Hi,
+22-07-15 14:24:37 **  Login Id:mrunalchopade2003@gmail.com Password:JpgNDt8
+22-07-15 14:24:37 ** --- MESSAGE END ---
+22-07-15 14:24:38 ** Connecting to smtp.gmail.com:587
+22-07-15 14:24:39 ** Connected.
+22-07-15 14:24:39 << 220 smtp.gmail.com ESMTP p18-20020a170902e75200b0016b81679c31sm2987313plf.213 - gsmtp<EOL>
+22-07-15 14:24:39 >> EHLO Sarvesh<EOL>
+22-07-15 14:24:39 << 250-smtp.gmail.com at your service, [49.248.39.180]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-07-15 14:24:39 ** Authenticating as sarvesh98patil81@gmail.com
+22-07-15 14:24:39 >> STARTTLS<EOL>
+22-07-15 14:24:39 << 220 2.0.0 Ready to start TLS<EOL>
+22-07-15 14:24:39 >> EHLO Sarvesh<EOL>
+22-07-15 14:24:39 << 250-smtp.gmail.com at your service, [49.248.39.180]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-07-15 14:24:39 >> AUTH LOGIN<EOL>
+22-07-15 14:24:40 << 334 VXNlcm5hbWU6<EOL>
+22-07-15 14:24:40 >> c2FydmVzaDk4cGF0aWw4MUBnbWFpbC5jb20=<EOL>
+22-07-15 14:24:40 << 334 UGFzc3dvcmQ6<EOL>
+22-07-15 14:24:40 >> dHZ1YWFjZ3htYWtqb2prbQ==<EOL>
+22-07-15 14:24:40 << 235 2.7.0 Accepted<EOL>
+22-07-15 14:24:40 >> MAIL FROM: <sarvesh98patil81@gmail.com><EOL>
+22-07-15 14:24:40 << 250 2.1.0 OK p18-20020a170902e75200b0016b81679c31sm2987313plf.213 - gsmtp<EOL>
+22-07-15 14:24:40 >> RCPT TO: <mrunalchopade2003@gmail.com><EOL>
+22-07-15 14:24:41 << 250 2.1.5 OK p18-20020a170902e75200b0016b81679c31sm2987313plf.213 - gsmtp<EOL>
+22-07-15 14:24:41 >> DATA<EOL>
+22-07-15 14:24:41 << 354  Go ahead p18-20020a170902e75200b0016b81679c31sm2987313plf.213 - gsmtp<EOL>
+22-07-15 14:24:41 >> Date: Fri, 15 Jul 2022 14:24:41 +0530<EOL>
+22-07-15 14:24:41 >> To: mrunalchopade2003@gmail.com<EOL>
+22-07-15 14:24:41 >> Subject: Your login credentials are here<EOL>
+22-07-15 14:24:41 >> From: alfaizkhan147@gmail.com<EOL>
+22-07-15 14:24:41 >> <EOL>
+22-07-15 14:24:41 >> Hi,<EOL>
+22-07-15 14:24:41 >>  Login Id:mrunalchopade2003@gmail.com Password:JpgNDt8<EOL>
+22-07-15 14:24:41 >> .<EOL>
+22-07-15 14:24:42 << 250 2.0.0 OK  1657875282 p18-20020a170902e75200b0016b81679c31sm2987313plf.213 - gsmtp<EOL>
+22-07-15 14:24:42 >> QUIT<EOL>
+22-07-15 14:24:42 << 221 2.0.0 closing connection p18-20020a170902e75200b0016b81679c31sm2987313plf.213 - gsmtp<EOL>
+22-07-15 14:24:42 ** Disconnected.
+22-07-15 14:24:42 ** Disconnected.
+22-07-15 14:24:42 ** Disconnected.
+22-07-15 15:59:23 ** --- MESSAGE BEGIN ---
+22-07-15 15:59:23 ** To: mrudulakhedkar74@gmail.com
+22-07-15 15:59:23 ** Subject: Your login credentials are here
+22-07-15 15:59:23 ** From: alfaizkhan147@gmail.com
+22-07-15 15:59:23 ** 
+22-07-15 15:59:23 ** Hi,
+22-07-15 15:59:23 **  Login Id:mrudulakhedkar74@gmail.com Password:vBpfTyg
+22-07-15 15:59:23 ** --- MESSAGE END ---
+22-07-15 15:59:24 ** Connecting to smtp.gmail.com:587
+22-07-15 15:59:24 ** Connected.
+22-07-15 15:59:24 << 220 smtp.gmail.com ESMTP a11-20020a170902eccb00b0016a034ae481sm3190834plh.176 - gsmtp<EOL>
+22-07-15 15:59:24 >> EHLO Sarvesh<EOL>
+22-07-15 15:59:24 << 250-smtp.gmail.com at your service, [49.248.39.180]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-07-15 15:59:24 ** Authenticating as sarvesh98patil81@gmail.com
+22-07-15 15:59:24 >> STARTTLS<EOL>
+22-07-15 15:59:24 << 220 2.0.0 Ready to start TLS<EOL>
+22-07-15 15:59:25 >> EHLO Sarvesh<EOL>
+22-07-15 15:59:25 << 250-smtp.gmail.com at your service, [49.248.39.180]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-07-15 15:59:25 >> AUTH LOGIN<EOL>
+22-07-15 15:59:25 << 334 VXNlcm5hbWU6<EOL>
+22-07-15 15:59:25 >> c2FydmVzaDk4cGF0aWw4MUBnbWFpbC5jb20=<EOL>
+22-07-15 15:59:25 << 334 UGFzc3dvcmQ6<EOL>
+22-07-15 15:59:25 >> dHZ1YWFjZ3htYWtqb2prbQ==<EOL>
+22-07-15 15:59:26 << 235 2.7.0 Accepted<EOL>
+22-07-15 15:59:26 >> MAIL FROM: <sarvesh98patil81@gmail.com><EOL>
+22-07-15 15:59:26 << 250 2.1.0 OK a11-20020a170902eccb00b0016a034ae481sm3190834plh.176 - gsmtp<EOL>
+22-07-15 15:59:26 >> RCPT TO: <mrudulakhedkar74@gmail.com><EOL>
+22-07-15 15:59:26 << 250 2.1.5 OK a11-20020a170902eccb00b0016a034ae481sm3190834plh.176 - gsmtp<EOL>
+22-07-15 15:59:26 >> DATA<EOL>
+22-07-15 15:59:26 << 354  Go ahead a11-20020a170902eccb00b0016a034ae481sm3190834plh.176 - gsmtp<EOL>
+22-07-15 15:59:26 >> Date: Fri, 15 Jul 2022 15:59:26 +0530<EOL>
+22-07-15 15:59:26 >> To: mrudulakhedkar74@gmail.com<EOL>
+22-07-15 15:59:26 >> Subject: Your login credentials are here<EOL>
+22-07-15 15:59:26 >> From: alfaizkhan147@gmail.com<EOL>
+22-07-15 15:59:26 >> <EOL>
+22-07-15 15:59:26 >> Hi,<EOL>
+22-07-15 15:59:26 >>  Login Id:mrudulakhedkar74@gmail.com Password:vBpfTyg<EOL>
+22-07-15 15:59:26 >> .<EOL>
+22-07-15 15:59:27 << 250 2.0.0 OK  1657880967 a11-20020a170902eccb00b0016a034ae481sm3190834plh.176 - gsmtp<EOL>
+22-07-15 15:59:27 >> QUIT<EOL>
+22-07-15 15:59:27 << 221 2.0.0 closing connection a11-20020a170902eccb00b0016a034ae481sm3190834plh.176 - gsmtp<EOL>
+22-07-15 15:59:27 ** Disconnected.
+22-07-15 15:59:27 ** Disconnected.
+22-07-15 15:59:27 ** Disconnected.
